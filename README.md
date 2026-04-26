@@ -14,7 +14,8 @@
 - 📫 Reach me at: [github.com/Sahadat-Hossen1](https://github.com/Sahadat-Hossen1)
 
 ---
-
+CV Link :https://www.canva.com/design/DAG6tlJ4Ghc/jffkxcuJgq7DbGZ4XK6DjQ/view?utm_content=DAG6tlJ4Ghc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h40e694b1bd
+---
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
